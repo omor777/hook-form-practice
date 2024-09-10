@@ -10,6 +10,7 @@ const App = () => {
       <h1>Seven</h1>
       <h1>Eight</h1>
       <h1>Nine</h1>
+      <h1>ten</h1>
     </div>
   );
 };
